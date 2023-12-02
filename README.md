@@ -24,7 +24,10 @@ Ayyappan T - 20BAI1305
 
 ### Referred papers
 
-All of the referred papers can be found in the reference.txt file
+All of the referred papers can be found [here](https://drive.google.com/drive/folders/12PASfQ3OOASef5D28ket3ESV918OGmD8?usp=sharing)
+
+- All the papers referred in our project report is listed in the parent folder with their file name being the same as their reference number in the report. I.e. 12.pdf for the reference [12]
+- Additionally, there is another folder named "All papers" inside the above folder. This folder contains the papers that we referred to while doing the literature survey for the project at the beginning (which we submitted as DA-1) 
 
 ### Steps to run
 
