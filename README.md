@@ -1,6 +1,6 @@
-# Cephalogram Landmark Detection
+# Cephalogram Landmark Detection with Coordinate Attention Module
 
-This repository contains the code and output of our project
+This repository contains the code, output of our project as well as the report, survey (DA-1 and survey paper draft), presentation. Read below for more info
 
 ### Team
 
