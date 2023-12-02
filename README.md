@@ -33,6 +33,7 @@ All of the referred papers can be found [here](https://drive.google.com/drive/fo
 
 - In Cloud/Kaggle/Colab **(recommended)**
   - You can just run the notebook as is, in Kaggle (with GPU enabled) or Colab as they'd have most prerequisites installed. Other packages that maybe required are installed in the first cell of the notebook
+  - All the cells will execute without any error, though the model will be retrained with randomly initialized weights each time you run the notebook. So the results reported and the results obtained might slightly vary
 
 - Local (Linux required for the code to automatically download the dataset)
   - Install PyTorch with cuda enabled, numpy, pillow, matplotlib alongside everything in the first cell
