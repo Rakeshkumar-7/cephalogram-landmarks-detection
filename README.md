@@ -10,7 +10,7 @@ Jayasurya S - 20BAI1004
 
 Ayyappan T - 20BAI1305
 
-### Major Frameworks
+### Major frameworks
 
 - PyTorch - For everything related to deep learning
 - Numpy - For some array manipulation and algebra
@@ -19,7 +19,12 @@ Ayyappan T - 20BAI1305
 ### Dataset used
 
 - We have used the popular ISBI 2015 Grand Challenge dataset for cephalometric landmark detection. It contains 400 images of which 150 is for training , 150 and 100 are two test sets. We have used one of them for validation and one for testing
-- All the required data will download itself (`downloaded_processed_data()` function) 
+- **All the required data will download itself** *(`downloaded_processed_data()` function)*
+- If needed, you can download the processed dataset (TIFF format to JPEG) from [here](https://drive.google.com/file/d/1gTmP4u4CGPKjEC0OFcx6TsIgtdC2U33Y/view?usp=sharing)
+
+### Referred papers
+
+All of the referred papers can be found in the reference.txt file
 
 ### Steps to run
 
@@ -38,7 +43,7 @@ Ayyappan T - 20BAI1305
 
 93.26% SDR < 4 mm
 
-### Sample Output:
+### Sample output:
 red = predicted, blue = true
 
 ![Sample Output](https://i.imgur.com/9rqoyyP.png)
